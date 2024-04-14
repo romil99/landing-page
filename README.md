@@ -1,6 +1,6 @@
-# landing-page
+# Landing Page
 
-# Languages
+## Languages
 
 - HTML
 - CSS
